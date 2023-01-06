@@ -1,14 +1,16 @@
 def concatenate_example(string)
   # use concatenation to format the result to be "Classic <string>"
-  "Classic " << string
+  "Classic " << 'string'
 end
 
 def concatenate(string)
   # use concatenation to format the result to be "Hello <string>!"
+  "hello '<string'"
 end
 
 def substrings(word)
   # return the first 4 letters from the word using substrings
+  string
 end
 
 def capitalize(word)
